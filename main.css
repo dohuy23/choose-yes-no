@@ -1,7 +1,7 @@
-* {
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
-}
+
+@media (max-width: 768px) {
+ 
+
 
 body {
   width: 100%;
@@ -75,5 +75,6 @@ body {
   .content {
     width: 100%;
   }
+}
 }
 /*# sourceMappingURL=main.css.map */
